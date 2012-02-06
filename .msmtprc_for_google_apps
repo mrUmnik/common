@@ -1,0 +1,11 @@
+account default
+logfile /home/bitrix/.msmtp.log
+host mail.gmail.com
+from from@mail.ru
+user from@mail.ru
+password 123password123123
+auth on
+port 465
+tls on
+tls_starttls off
+tls_certcheck off
